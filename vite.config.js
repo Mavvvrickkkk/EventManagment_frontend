@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // 👇 Add this line
-  base: '/event-management/'
+  base: '/event-management-ui/'
 })
